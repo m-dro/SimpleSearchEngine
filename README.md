@@ -1,6 +1,6 @@
 # SimpleSearchEngine
 
-A basic search engine to search for words and phrases.
+A basic search engine to search for people by name or email in a list imported from a file.
 
 ## Demo
 
