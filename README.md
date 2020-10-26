@@ -4,4 +4,7 @@ A basic search engine to search for people by name or email in a list imported f
 
 ## Demo
 
-[![Demo Simple Search Engine](https://j.gifs.com/BN5OO2.gif)]
+![Demo Simple Search Engine](https://j.gifs.com/BN5OO2.gif)
+
+
+(Demonstration video courtesy of JetBrains Academy)
